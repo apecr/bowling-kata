@@ -1,10 +1,10 @@
-# Rover Mars Kata
+# Bowling Kata
 
 ## Configuration
 
 ### Requirements
 
-You have to be node and npm installed 
+You have to be node and npm installed
 
 ### Install dependencies
 
